@@ -334,4 +334,15 @@ footer .line2 a:hover {
   .checkbox-items label {
     font-size: 15px;
   }
+
+  /* Footer */
+  footer .line1 {
+    flex-direction: column;
+  }
+
+  footer .address {
+    width: 95%;
+    margin-bottom: 20px;
+  }
+
 }
