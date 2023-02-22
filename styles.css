@@ -13,7 +13,7 @@ body {
   background: linear-gradient(
       180deg,
       rgba(12, 112, 242, 0.5) 19.91%,
-      rgba(12, 112, 242, 0) 24.84%
+      rgba(12, 112, 242, 0) 40%
     ),
     var(--preto-dnc);
   background-repeat: no-repeat;
@@ -109,6 +109,7 @@ header b.teste {
 }
 
 form {
+  margin-top: 2%;
   width: 500px;
   color: white;
   font-family: var(--fonte-padrao);
