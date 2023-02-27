@@ -7,7 +7,7 @@
  - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"/>
  
  
- <h2> 👨‍💻 Projeto feito para treinar meus conhecimentos de HTML e CSS, seguindo o modelo Figma disponibilizado pela Escola DNC, na Formação em Tecnologia</h2>
+ <h2> 👨‍💻 Projeto feito para treinar meus conhecimentos de HTML, CSS e responsividade com Media Query, seguindo o modelo Figma disponibilizado pela Escola DNC, na Formação em Tecnologia</h2>
  
  App final:
  
